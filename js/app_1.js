@@ -14,7 +14,7 @@ map.setView([39, -96], 4);
 var dataFileToAdd = 'data/fastfood.geojson';
 
 var featureLayer = L.mapbox.featureLayer();
-    featureLayer.loadURL(dataFile2ToAdd);
+    featureLayer.loadURL(dataFileToAdd);
     featureLayer.addTo(map);
     featureLayer.on('ready', function(){this.setStyle({
       "marker-color":"#333333",
@@ -24,7 +24,7 @@ var featureLayer = L.mapbox.featureLayer();
 var dataFile2ToAdd = 'data/jim.geojson';
 
 var featureLayer2 = L.mapbox.featureLayer();
-    featureLayer2.loadURL(dataFileToAdd);
+    featureLayer2.loadURL(dataFile2ToAdd);
     featureLayer2.addTo(map);
     featureLayer2.on('ready', function(){this.setStyle({
       "marker-color":"#777777",
