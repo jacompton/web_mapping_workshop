@@ -14,7 +14,7 @@ map.setView([39, -96], 4);
 var dataFileToAdd = 'data/fastfood.geojson';
 
 var featureLayer = L.mapbox.featureLayer();
-    featureLayer.loadUrl(dataFileToAdd);
+    featureLayer.loadURL(dataFileToAdd);
     featureLayer.addTo(map);
     featureLayer.on('ready', function(){this.setStyle({
       "marker-color":"#777777",
