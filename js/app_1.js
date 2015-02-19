@@ -21,9 +21,15 @@ var featureLayer = L.mapbox.featureLayer();
       "marker-size":"medium"
     });
 
-
-
-
     map.fitBounds(featureLayer.getBounds());
     
 });
+
+
+featureLayer.on('ready', function(){
+    this.eachLayer(function(layer){
+        layer.bindPopup('Name: ' + layer.feature.properties.name);
+    })
+})
+    })
+})
