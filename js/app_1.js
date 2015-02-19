@@ -31,5 +31,4 @@ featureLayer.on('ready', function(){
         layer.bindPopup('Name: ' + layer.feature.properties.name);
     })
 })
-    })
-})
+
