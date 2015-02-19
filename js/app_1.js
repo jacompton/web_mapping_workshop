@@ -33,4 +33,4 @@ var featureLayer2 = L.mapbox.featureLayer();
 
 
     map.fitBounds(featureLayer.getBounds());
-    });
+    
