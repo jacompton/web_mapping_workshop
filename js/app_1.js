@@ -14,11 +14,11 @@ map.setView([39, -96], 4);
 var dataFileToAdd = 'data/fastfood.geojson';
 
 var featureLayer = L.mapbox.featureLayer();
-    featureLayer.loadUrl(dataDileToAdd);
+    featureLayer.loadUrl(dataFileToAdd);
     featureLayer.addTo(map);
-    featureLayer.on('ready' feature(){this.setStyle({
+    featureLayer.on('ready' function(){this.setStyle({
       "marker-color":"#777777",
       "marker-size":"medium"
     });
-    map.fitBounds(fearureLayer.getBounds());
+    map.fitBounds(featureLayer.getBounds());
     });
