@@ -1,0 +1,2386 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-19T20:45:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/102923844",
+      "properties": {
+        "@id": "way/102923844",
+        "addr:full": "1815 E Primrose St",
+        "addr:housenumber": "1815",
+        "addr:street": "E Primrose St",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Culver's"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -93.2633298,
+              37.1500057
+            ],
+            [
+              -93.2631153,
+              37.1497746
+            ],
+            [
+              -93.262991,
+              37.1498479
+            ],
+            [
+              -93.2632055,
+              37.150079
+            ],
+            [
+              -93.2633298,
+              37.1500057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158085404",
+      "properties": {
+        "@id": "way/158085404",
+        "amenity": "fast_food",
+        "building": "retail",
+        "cuisine": "burger",
+        "name": "Steak N Shake",
+        "source:name": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -93.2601064,
+              37.2473294
+            ],
+            [
+              -93.2601144,
+              37.2472067
+            ],
+            [
+              -93.2597765,
+              37.2471927
+            ],
+            [
+              -93.2597685,
+              37.2473154
+            ],
+            [
+              -93.2601064,
+              37.2473294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161787350",
+      "properties": {
+        "@id": "way/161787350",
+        "amenity": "fast_food",
+        "building": "retail",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -93.3113405,
+              37.2479252
+            ],
+            [
+              -93.3115011,
+              37.2479281
+            ],
+            [
+              -93.3115088,
+              37.2476591
+            ],
+            [
+              -93.3114734,
+              37.2476585
+            ],
+            [
+              -93.3114749,
+              37.247605
+            ],
+            [
+              -93.3113497,
+              37.2476028
+            ],
+            [
+              -93.3113405,
+              37.2479252
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387466617",
+      "properties": {
+        "@id": "node/387466617",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2614426,
+          37.2041302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/572633827",
+      "properties": {
+        "@id": "node/572633827",
+        "amenity": "fast_food",
+        "cuisine": "coffee_shop",
+        "name": "Krispy Kreme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2611468,
+          37.2150618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/814607874",
+      "properties": {
+        "@id": "node/814607874",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.265795,
+          37.1370155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/814617464",
+      "properties": {
+        "@id": "node/814617464",
+        "amenity": "fast_food",
+        "name": "Braums"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2788198,
+          37.139205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/814617579",
+      "properties": {
+        "@id": "node/814617579",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2774208,
+          37.13724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/820072939",
+      "properties": {
+        "@id": "node/820072939",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Taco Bell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2764097,
+          37.2036732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/820072940",
+      "properties": {
+        "@id": "node/820072940",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2766564,
+          37.2041944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/820072941",
+      "properties": {
+        "@id": "node/820072941",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Domino's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2756908,
+          37.2039893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1294136101",
+      "properties": {
+        "@id": "node/1294136101",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Chipotle Mexican Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2755752,
+          37.2097155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1294136105",
+      "properties": {
+        "@id": "node/1294136105",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Panera Bread"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2758836,
+          37.2049709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1294136106",
+      "properties": {
+        "@id": "node/1294136106",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Steak 'n Shake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2764415,
+          37.2093053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1294141809",
+      "properties": {
+        "@id": "node/1294141809",
+        "amenity": "fast_food",
+        "cuisine": "pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2777424,
+          37.194812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1586563289",
+      "properties": {
+        "@id": "node/1586563289",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Taylor's Drive In"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28717,
+          37.2104748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1586563290",
+      "properties": {
+        "@id": "node/1586563290",
+        "amenity": "fast_food",
+        "name": "Hardee's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2764304,
+          37.2054504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1586563291",
+      "properties": {
+        "@id": "node/1586563291",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "name": "Korea House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2777554,
+          37.2093469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1586563293",
+      "properties": {
+        "@id": "node/1586563293",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2755807,
+          37.2083733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703674884",
+      "properties": {
+        "@id": "node/2703674884",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Wendy's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2558345,
+          37.1430599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703674890",
+      "properties": {
+        "@id": "node/2703674890",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "name": "Fazoli's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2566499,
+          37.1419182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703675040",
+      "properties": {
+        "@id": "node/2703675040",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "Chick-fil-A",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2558588,
+          37.1465019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703675125",
+      "properties": {
+        "@id": "node/2703675125",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2561001,
+          37.1426558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703734814",
+      "properties": {
+        "@id": "node/2703734814",
+        "amenity": "fast_food",
+        "cuisine": "seafood",
+        "name": "Captain D's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.276677,
+          37.1599718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703734833",
+      "properties": {
+        "@id": "node/2703734833",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2818709,
+          37.1592476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703734843",
+      "properties": {
+        "@id": "node/2703734843",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2863064,
+          37.159363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703734867",
+      "properties": {
+        "@id": "node/2703734867",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Taco Bell",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2776276,
+          37.1609959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703734876",
+      "properties": {
+        "@id": "node/2703734876",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2667647,
+          37.159987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703734880",
+      "properties": {
+        "@id": "node/2703734880",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Wendy's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2752163,
+          37.1591685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703734902",
+      "properties": {
+        "@id": "node/2703734902",
+        "amenity": "fast_food",
+        "cuisine": "coffee_shop",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2733333,
+          37.1592156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703765107",
+      "properties": {
+        "@id": "node/2703765107",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2574949,
+          37.1511368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703800150",
+      "properties": {
+        "@id": "node/2703800150",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2773689,
+          37.1401473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703800311",
+      "properties": {
+        "@id": "node/2703800311",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2777267,
+          37.138557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703826224",
+      "properties": {
+        "@id": "node/2703826224",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2993044,
+          37.1328306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703826289",
+      "properties": {
+        "@id": "node/2703826289",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2960643,
+          37.1114359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2703826319",
+      "properties": {
+        "@id": "node/2703826319",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2953777,
+          37.1348792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2726501826",
+      "properties": {
+        "@id": "node/2726501826",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3624657,
+          37.1382622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727918467",
+      "properties": {
+        "@id": "node/2727918467",
+        "addr:housenumber": "3520",
+        "addr:postcode": "65807",
+        "addr:street": "West Sunshine Street",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "phone": "417-886-8300",
+        "website": "subway.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3528581,
+          37.1807494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727974769",
+      "properties": {
+        "@id": "node/2727974769",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3495376,
+          37.2116266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727974772",
+      "properties": {
+        "@id": "node/2727974772",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "old_name": "Kentucky Fried Chicken",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.347837,
+          37.2099645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727974781",
+      "properties": {
+        "@id": "node/2727974781",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3504817,
+          37.212652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727974789",
+      "properties": {
+        "@id": "node/2727974789",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Hardee's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3480784,
+          37.2128355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727974796",
+      "properties": {
+        "@id": "node/2727974796",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Arby's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3479926,
+          37.2088195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727974801",
+      "properties": {
+        "@id": "node/2727974801",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Taco Bell",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3497897,
+          37.2126904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2728018834",
+      "properties": {
+        "@id": "node/2728018834",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3444091,
+          37.2419793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2728286792",
+      "properties": {
+        "@id": "node/2728286792",
+        "addr:housenumber": "2642",
+        "addr:postcode": "65807",
+        "addr:street": "West Sunshine Street",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "phone": "417-522-3322",
+        "source": "Bing",
+        "website": "dominos.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3303865,
+          37.1822684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2728286804",
+      "properties": {
+        "@id": "node/2728286804",
+        "addr:housenumber": "1723",
+        "addr:postcode": "65807",
+        "addr:street": "West Republic Road",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Wendy's",
+        "phone": "417-877-1507",
+        "source": "Bing",
+        "website": "wendys.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3172331,
+          37.1388009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2728286826",
+      "properties": {
+        "@id": "node/2728286826",
+        "addr:housenumber": "1833",
+        "addr:postcode": "65807",
+        "addr:street": "West Republic Road",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Arby's",
+        "phone": "417-890-0902",
+        "source": "Bing",
+        "website": "arbys.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.318939,
+          37.1388824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569136",
+      "properties": {
+        "@id": "node/2730569136",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2962956,
+          37.1826509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569147",
+      "properties": {
+        "@id": "node/2730569147",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Taco Bell",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2992004,
+          37.1826807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569166",
+      "properties": {
+        "@id": "node/2730569166",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3068286,
+          37.1826914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569204",
+      "properties": {
+        "@id": "node/2730569204",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2967811,
+          37.1827427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569282",
+      "properties": {
+        "@id": "node/2730569282",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.310235,
+          37.1828538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569292",
+      "properties": {
+        "@id": "node/2730569292",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2958557,
+          37.1825952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569306",
+      "properties": {
+        "@id": "node/2730569306",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3162782,
+          37.1829327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730663285",
+      "properties": {
+        "@id": "node/2730663285",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "old_name": "Kentucky Fried Chicken",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3168815,
+          37.15972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730663314",
+      "properties": {
+        "@id": "node/2730663314",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3117263,
+          37.1597285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730663574",
+      "properties": {
+        "@id": "node/2730663574",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3121742,
+          37.160434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730663675",
+      "properties": {
+        "@id": "node/2730663675",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3155593,
+          37.1605814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730663804",
+      "properties": {
+        "@id": "node/2730663804",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.312987,
+          37.1605558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2732907006",
+      "properties": {
+        "@id": "node/2732907006",
+        "addr:housenumber": "4127",
+        "addr:postcode": "65807",
+        "addr:street": "S Kansas Expwy",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Qdoba Mexican Grill",
+        "phone": "417-823-7835",
+        "website": "qdoba.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3202425,
+          37.1395365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2732907008",
+      "properties": {
+        "@id": "node/2732907008",
+        "addr:housenumber": "4126",
+        "addr:postcode": "65807",
+        "addr:street": "S Kansas Expwy",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "phone": "417-883-7827",
+        "source": "Bing",
+        "website": "subway.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3187029,
+          37.1395795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2732945258",
+      "properties": {
+        "@id": "node/2732945258",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3313248,
+          37.138942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2732945260",
+      "properties": {
+        "@id": "node/2732945260",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.330606,
+          37.1388566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2732991751",
+      "properties": {
+        "@id": "node/2732991751",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3272908,
+          37.1392094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171684",
+      "properties": {
+        "@id": "node/2733171684",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2954803,
+          37.1436584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171702",
+      "properties": {
+        "@id": "node/2733171702",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2965102,
+          37.1496576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171704",
+      "properties": {
+        "@id": "node/2733171704",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2961186,
+          37.1595383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171715",
+      "properties": {
+        "@id": "node/2733171715",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2953756,
+          37.1489649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171736",
+      "properties": {
+        "@id": "node/2733171736",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2961588,
+          37.1591343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171740",
+      "properties": {
+        "@id": "node/2733171740",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2960488,
+          37.1565114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171746",
+      "properties": {
+        "@id": "node/2733171746",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2930233,
+          37.1594742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171756",
+      "properties": {
+        "@id": "node/2733171756",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2966175,
+          37.1456661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171769",
+      "properties": {
+        "@id": "node/2733171769",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2878386,
+          37.1596473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171780",
+      "properties": {
+        "@id": "node/2733171780",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Taco Bell",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2951261,
+          37.1536404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2733171794",
+      "properties": {
+        "@id": "node/2733171794",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2953461,
+          37.1496706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2735544240",
+      "properties": {
+        "@id": "node/2735544240",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2957111,
+          37.1741878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2735655758",
+      "properties": {
+        "@id": "node/2735655758",
+        "amenity": "fast_food",
+        "name": "Battlefield Mall Food Court",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.268142,
+          37.162597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2735655759",
+      "properties": {
+        "@id": "node/2735655759",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys Burgers & Fries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2644567,
+          37.1633494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738575138",
+      "properties": {
+        "@id": "node/2738575138",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2516315,
+          37.1816594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738575155",
+      "properties": {
+        "@id": "node/2738575155",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2462912,
+          37.1806357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738575169",
+      "properties": {
+        "@id": "node/2738575169",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2487025,
+          37.1807233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738575217",
+      "properties": {
+        "@id": "node/2738575217",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2440274,
+          37.1805951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738575270",
+      "properties": {
+        "@id": "node/2738575270",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2521464,
+          37.1815718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738592980",
+      "properties": {
+        "@id": "node/2738592980",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2618855,
+          37.1839353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738833218",
+      "properties": {
+        "@id": "node/2738833218",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2344924,
+          37.1801981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738833247",
+      "properties": {
+        "@id": "node/2738833247",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2329284,
+          37.1802043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738833285",
+      "properties": {
+        "@id": "node/2738833285",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2332986,
+          37.1801616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738833292",
+      "properties": {
+        "@id": "node/2738833292",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2358359,
+          37.1803069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738859961",
+      "properties": {
+        "@id": "node/2738859961",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2617487,
+          37.1938563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738859962",
+      "properties": {
+        "@id": "node/2738859962",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.261797,
+          37.1941063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738875502",
+      "properties": {
+        "@id": "node/2738875502",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2625829,
+          37.2005308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738875508",
+      "properties": {
+        "@id": "node/2738875508",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.261738,
+          37.1968176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738875516",
+      "properties": {
+        "@id": "node/2738875516",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2624139,
+          37.2026714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738875520",
+      "properties": {
+        "@id": "node/2738875520",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2623978,
+          37.2009816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738893443",
+      "properties": {
+        "@id": "node/2738893443",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2615654,
+          37.2052118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738893474",
+      "properties": {
+        "@id": "node/2738893474",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2615985,
+          37.2046582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738900169",
+      "properties": {
+        "@id": "node/2738900169",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2612338,
+          37.2154395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738900181",
+      "properties": {
+        "@id": "node/2738900181",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.261046,
+          37.2135321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738912286",
+      "properties": {
+        "@id": "node/2738912286",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2621082,
+          37.2165888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959288",
+      "properties": {
+        "@id": "node/2738959288",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2606761,
+          37.2376913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959328",
+      "properties": {
+        "@id": "node/2738959328",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2620601,
+          37.2279578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959340",
+      "properties": {
+        "@id": "node/2738959340",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2610514,
+          37.2232399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959386",
+      "properties": {
+        "@id": "node/2738959386",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2615613,
+          37.2345951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959401",
+      "properties": {
+        "@id": "node/2738959401",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2605527,
+          37.2366663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959416",
+      "properties": {
+        "@id": "node/2738959416",
+        "amenity": "fast_food",
+        "cuisine": "american",
+        "name": "Sonic Drive-In",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2608853,
+          37.2276116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959428",
+      "properties": {
+        "@id": "node/2738959428",
+        "amenity": "fast_food",
+        "name": "Taco Bell",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2610326,
+          37.2236307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959439",
+      "properties": {
+        "@id": "node/2738959439",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2605206,
+          37.2421456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959448",
+      "properties": {
+        "@id": "node/2738959448",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2615291,
+          37.2381355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959456",
+      "properties": {
+        "@id": "node/2738959456",
+        "addr:city": "Springfield",
+        "addr:housenumber": "1316",
+        "addr:postcode": "65802",
+        "addr:street": "North Glenstone Avenue",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Schlotzsky's Deli",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2609575,
+          37.2224838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959465",
+      "properties": {
+        "@id": "node/2738959465",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2606976,
+          37.2280643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959471",
+      "properties": {
+        "@id": "node/2738959471",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2607405,
+          37.2338432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959530",
+      "properties": {
+        "@id": "node/2738959530",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2606064,
+          37.2359574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959590",
+      "properties": {
+        "@id": "node/2738959590",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2616793,
+          37.2362181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959595",
+      "properties": {
+        "@id": "node/2738959595",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2609604,
+          37.2266121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089008",
+      "properties": {
+        "@id": "node/2739089008",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3085743,
+          37.240493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089030",
+      "properties": {
+        "@id": "node/2739089030",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3074285,
+          37.2412984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089031",
+      "properties": {
+        "@id": "node/2739089031",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.301268,
+          37.241093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089035",
+      "properties": {
+        "@id": "node/2739089035",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "name": "Hong Hong Inn",
+        "source": "Experiance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3087648,
+          37.2413236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089040",
+      "properties": {
+        "@id": "node/2739089040",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3062113,
+          37.2411315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089049",
+      "properties": {
+        "@id": "node/2739089049",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3079092,
+          37.2411678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089058",
+      "properties": {
+        "@id": "node/2739089058",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3115972,
+          37.2469628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089067",
+      "properties": {
+        "@id": "node/2739089067",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Taco Bell",
+        "source": "Experiance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3083705,
+          37.2412446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089070",
+      "properties": {
+        "@id": "node/2739089070",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3105592,
+          37.2419877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089082",
+      "properties": {
+        "@id": "node/2739089082",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3115489,
+          37.2442126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089086",
+      "properties": {
+        "@id": "node/2739089086",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3076383,
+          37.240508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089120",
+      "properties": {
+        "@id": "node/2739089120",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.306737,
+          37.2412211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089139",
+      "properties": {
+        "@id": "node/2739089139",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2983819,
+          37.2405123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089164",
+      "properties": {
+        "@id": "node/2739089164",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3069248,
+          37.2405828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089165",
+      "properties": {
+        "@id": "node/2739089165",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3039824,
+          37.2405058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089203",
+      "properties": {
+        "@id": "node/2739089203",
+        "amenity": "fast_food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3142526,
+          37.2408197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741522984",
+      "properties": {
+        "@id": "node/2741522984",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3572056,
+          37.2117764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2830461984",
+      "properties": {
+        "@id": "node/2830461984",
+        "addr:city": "Springfield",
+        "addr:housenumber": "4132",
+        "addr:street": "South Campbell Avenue",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "name": "Schlotzsky's Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2955868,
+          37.1391708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2830468634",
+      "properties": {
+        "@id": "node/2830468634",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2966892,
+          37.1398657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2830468895",
+      "properties": {
+        "@id": "node/2830468895",
+        "amenity": "fast_food",
+        "name": "Dairy Queen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2956753,
+          37.1389911
+        ]
+      }
+    }
+  ]
+}
