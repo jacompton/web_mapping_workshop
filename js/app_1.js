@@ -21,16 +21,9 @@ var featureLayer = L.mapbox.featureLayer();
       "marker-size":"medium"
     });
 
-var dataFile2ToAdd = 'data/jim.geojson';
 
-var featureLayer2 = L.mapbox.featureLayer();
-    featureLayer2.loadURL(dataFile2ToAdd);
-    featureLayer2.addTo(map);
-    featureLayer2.on('ready', function(){this.setStyle({
-      "marker-color":"#777777",
-      "marker-size":"medium"
-    });
 
 
     map.fitBounds(featureLayer.getBounds());
     
+});
