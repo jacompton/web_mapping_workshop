@@ -10,3 +10,15 @@ var map = L.mapbox.map('map', mapId);
 
 //Set the view of the map to the whole US
 map.setView([39, -96], 4);
+//add data
+var dataFileToAdd = 'data/fastfood.geojson';
+
+var featureLayer = L.mapbox.featureLayer();
+    featureLayer.loadUrl(dataDileToAdd);
+    featureLayer.addTo(map);
+    featureLayer.on('ready' feature(){this.setStyle({
+      "marker-color":"#777777",
+      "marker-size":"medium"
+    });
+    map.fitBounds(fearureLayer.getBounds());
+    });
